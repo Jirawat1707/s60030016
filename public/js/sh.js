@@ -1,4 +1,4 @@
-var url = 'http://192.168.2.7:3049/getData';
+var url = 'http://192.168.2.7:3016/getData';
 
 var oReq = new XMLHttpRequest();
 oReq.addEventListener("load", reqListener);
